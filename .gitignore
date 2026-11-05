@@ -31,3 +31,4 @@ generated-clients/
 *.vsix
 integrations/jetbrains/.gradle/
 integrations/jetbrains/.intellijPlatform/
+report.json 
